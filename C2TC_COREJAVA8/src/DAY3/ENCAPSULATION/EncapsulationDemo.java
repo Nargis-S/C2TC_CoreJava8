@@ -1,5 +1,5 @@
 //Program to demonstrate class and object 
-package DAY3;
+package DAY3.ENCAPSULATION;
 
 public class EncapsulationDemo {
 	public static void main(String[] args) {
@@ -14,3 +14,4 @@ public class EncapsulationDemo {
 	}
 
 }
+
