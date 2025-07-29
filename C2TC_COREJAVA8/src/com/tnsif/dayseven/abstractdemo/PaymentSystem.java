@@ -1,4 +1,4 @@
-package com.tnsif.day7.abstractdemo;
+package com.tnsif.dayseven.abstractdemo;
 
 //abstract class
 
